@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@octokit/graphql": "^4.5.3",
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.2",
     "minimist": "^1.2.8",
     "pdfkit": "^0.14.0",
     "pretty-ms": "^7.0.1"
